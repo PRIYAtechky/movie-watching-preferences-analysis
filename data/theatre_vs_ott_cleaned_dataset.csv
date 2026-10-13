@@ -1,0 +1,58 @@
+Age_Group,Watching_Frequency,Viewing_Preference,Movie_Type,OTT_Platform,OTT_Reason,Theatre_Reason,Theatre_Frequency,Movie_Selection_Factor
+18–25,Rarely,OTT,Feel-good,JioHotstar,Comfort at home,Friends/Family,Once in 2–3 months,Story
+18–25,Monthly,Theatre,Suspenseful,JioHotstar,Comfort at home,Big screen,Rarely,Story
+18–25,Weekly,Both,Funny,Netflix,Convenience,Big screen,More than once a month,Story
+Not specified,Weekly,Both,Feel-good,Netflix,Convenience,Friends/Family,Once a month,Story
+18–25,Weekly,Theatre,Funny,Netflix,Comfort at home,New releases,Once a month,Comedy/Entertainment
+18–25,Daily,Both,Funny,Netflix,Comfort at home,Big screen,More than once a month,Story
+18–25,Monthly,OTT,Feel-good,JioHotstar,Cheaper,Friends/Family,Once in 2–3 months,Comedy/Entertainment
+18–25,Rarely,Theatre,Suspenseful,JioHotstar,Comfort at home,Movie atmosphere,Once a month,Not specified
+Below 18,Rarely,Theatre,Suspenseful,Netflix,Cheaper,Big screen,Once a month,Reviews/Ratings
+26–35,Rarely,OTT,Emotional,Amazon Prime,More choices,Movie atmosphere,Once a month,Trailer
+Above 35,Daily,Both,Funny,SonyLIV,Convenience,Better sound,More than once a month,Comedy/Entertainment
+26–35,Daily,Theatre,Funny,Amazon Prime,Watch anytime,Friends/Family,Once in 2–3 months,Comedy/Entertainment
+18–25,Weekly,Theatre,Feel-good,Other,Cheaper,Movie atmosphere,Once a month,Story
+18–25,Rarely,Theatre,Funny,Other,Convenience,Big screen,Once a month,Reviews/Ratings
+18–25,Weekly,Theatre,Suspenseful,Netflix,More choices,Movie atmosphere,Once a month,Comedy/Entertainment
+18–25,Monthly,Both,Feel-good,JioHotstar,Watch anytime,New releases,Once in 2–3 months,Actors
+Above 35,Daily,Theatre,Funny,Other,Convenience,Big screen,More than once a month,Actors
+Above 35,Weekly,Theatre,Feel-good,JioHotstar,Watch anytime,Friends/Family,Once a month,Story
+Above 35,Rarely,OTT,Feel-good,Netflix,Cheaper,Better sound,Once a month,Actors
+Below 18,Monthly,OTT,Funny,JioHotstar,Cheaper,Movie atmosphere,Once in 2–3 months,Comedy/Entertainment
+26–35,Weekly,Both,Feel-good,SonyLIV,More choices,New releases,Once a month,Reviews/Ratings
+Below 18,Rarely,Theatre,Feel-good,Amazon Prime,More choices,Friends/Family,Once in 2–3 months,Comedy/Entertainment
+18–25,Monthly,Both,Suspenseful,JioHotstar,More choices,Friends/Family,Rarely,Reviews/Ratings
+26–35,Monthly,OTT,Suspenseful,JioHotstar,More choices,Movie atmosphere,Once in 2–3 months,Comedy/Entertainment
+Below 18,Monthly,Theatre,Suspenseful,Netflix,More choices,Movie atmosphere,More than once a month,Actors
+18–25,Monthly,Theatre,Feel-good,JioHotstar,Watch anytime,Movie atmosphere,Once a month,Comedy/Entertainment
+26–35,Monthly,Both,Funny,Amazon Prime,Convenience,Friends/Family,Rarely,Trailer
+Above 35,Daily,Both,Emotional,Other,Comfort at home,New releases,Rarely,Trailer
+26–35,Monthly,Theatre,Feel-good,Netflix,Watch anytime,Friends/Family,Once a month,Comedy/Entertainment
+Below 18,Monthly,Both,Suspenseful,Amazon Prime,Cheaper,Better sound,Once a month,Not specified
+Below 18,Monthly,Theatre,Scary,Netflix,Not specified,Big screen,Once a month,Actors
+Below 18,Monthly,Both,Funny,Netflix,Convenience,Better sound,Once a month,Comedy/Entertainment
+18–25,Monthly,Both,Funny,Amazon Prime,More choices,Movie atmosphere,Once a month,Actors
+26–35,Monthly,Theatre,Emotional,Netflix,More choices,Friends/Family,Once in 2–3 months,Reviews/Ratings
+18–25,Monthly,Theatre,Suspenseful,SonyLIV,Comfort at home,Friends/Family,Once in 2–3 months,Reviews/Ratings
+Below 18,Monthly,Both,Feel-good,Amazon Prime,Cheaper,Movie atmosphere,Once a month,Story
+26–35,Monthly,Theatre,Suspenseful,SonyLIV,More choices,Better sound,Rarely,Reviews/Ratings
+18–25,Rarely,Both,Emotional,Amazon Prime,More choices,Friends/Family,Once in 2–3 months,Comedy/Entertainment
+18–25,Monthly,Both,Feel-good,Netflix,Watch anytime,Friends/Family,Once in 2–3 months,Actors
+26–35,Monthly,Both,Scary,Netflix,Comfort at home,Better sound,Once a month,Comedy/Entertainment
+26–35,Monthly,OTT,Suspenseful,Netflix,Convenience,Better sound,More than once a month,Story
+Above 35,Monthly,Both,Feel-good,Amazon Prime,Convenience,Movie atmosphere,Once in 2–3 months,Story
+Above 35,Rarely,Both,Feel-good,Amazon Prime,Comfort at home,New releases,Once a month,Trailer
+18–25,Weekly,Both,Suspenseful,Netflix,Watch anytime,Friends/Family,Once a month,Reviews/Ratings
+26–35,Weekly,OTT,Suspenseful,Amazon Prime,More choices,Movie atmosphere,Once in 2–3 months,Comedy/Entertainment
+Below 18,Monthly,Theatre,Funny,Netflix,Convenience,Big screen,More than once a month,Story
+Above 35,Rarely,Both,Feel-good,Amazon Prime,Comfort at home,Movie atmosphere,Once in 2–3 months,Trailer
+18–25,Monthly,Both,Feel-good,JioHotstar,Comfort at home,Movie atmosphere,Once a month,Reviews/Ratings
+26–35,Monthly,Theatre,Emotional,Netflix,More choices,Better sound,More than once a month,Actors
+Below 18,Monthly,Theatre,Emotional,Other,Cheaper,Friends/Family,Once in 2–3 months,Story
+18–25,Weekly,Both,Scary,Netflix,Convenience,Big screen,Once a month,Story
+26–35,Daily,Theatre,Scary,Other,Cheaper,New releases,Once in 2–3 months,Trailer
+18–25,Weekly,Theatre,Feel-good,Netflix,Comfort at home,New releases,Once a month,Trailer
+18–25,Weekly,Theatre,Feel-good,Netflix,Cheaper,Movie atmosphere,Once a month,Trailer
+Below 18,Weekly,Both,Funny,SonyLIV,Watch anytime,Movie atmosphere,Once in 2–3 months,Reviews/Ratings
+26–35,Weekly,Both,Scary,Netflix,Cheaper,Better sound,Once a month,Actors
+18–25,Monthly,Both,Scary,Amazon Prime,Watch anytime,Movie atmosphere,Once a month,Reviews/Ratings
